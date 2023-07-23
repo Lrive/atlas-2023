@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "E621.net",
+	"description": "A furry porn (yiff) website popularized by the furry community",
+	"links": {
+		"website": [
+			"https://e621.net"
+		]
+	},
+	"path": {
+		"150": [
+			[
+				615,
+				-640
+			],
+			[
+				640,
+				-639
+			],
+			[
+				638,
+				-631
+			],
+			[
+				632,
+				-631
+			],
+			[
+				631,
+				-624
+			],
+			[
+				629,
+				-610
+			],
+			[
+				615,
+				-611
+			]
+		]
+	},
+	"center": {
+		"150": [
+			623,
+			-630
+		]
+	}
+}
